@@ -1,0 +1,5 @@
+In this example:
+
+We're using Bootstrap for basic layout components and grid system.
+Custom styles are added for the colored boxes.
+Media queries are used to adjust the width of the boxes based on the screen size. The boxes will take up 100% of the width by default and then adjust to 50%, 33.33%, and 25% respectively as the screen size increases.
